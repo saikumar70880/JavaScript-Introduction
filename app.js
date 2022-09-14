@@ -1,4 +1,9 @@
 /* Data Types - 7
+HTML is responsible for structure of a webpage. CSS is used for styling a webpage. JavaScript is responsible for functionality and interaction. It is used to make a boring webpage dynamic.
+ */
+
+
+/* Data Types - 7
 Primitive - String, Number, Null, Undefinied, Boolean, Symbol
 Object - Arrays, functions and objects
 Typeof Operator - Used to used the type of a variable or value
